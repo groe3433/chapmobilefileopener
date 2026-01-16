@@ -1,6 +1,6 @@
 {
   "name": "chapmobilefileopener",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "chapmobile file opener",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -63,7 +63,7 @@
     "typescript": "~5.8.3"
   },
   "peerDependencies": {
-    "@capacitor/core": "^7.4.2"
+    "@capacitor/core": "^8.0.1"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
